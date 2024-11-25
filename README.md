@@ -9,7 +9,8 @@
 
 
 ### 🚀 Desenvolvedor em Início de Jornada:
-     Sou um entusiasta da programação, começando minha carreira na área de tecnologia. Estou atualmente aprendendo e explorando linguagens como python e desenvolvendo projetos para aprimorar minhas habilidades.
+     Sou um entusiasta da programação, começando minha carreira na área de tecnologia. Estou atualmente 
+     aprendendo e explorando linguagens como python e desenvolvendo projetos para aprimorar minhas habilidades.
 
 ### 🎯 Objetivos: 
     Me tornar um desenvolvedor FullStack habilidoso e contribuir para projetos que façam a diferença.
