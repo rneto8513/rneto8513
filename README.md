@@ -1,16 +1,23 @@
-## Hi there 👋
+### oi! meu nome é Raimundo Neto 🖐️
 
-<!--
-**rneto8513/rneto8513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-neto-211b992a3/)
 
-Here are some ideas to get you started:
+### 👨‍💻 informações Sobre mim:  
+    . idade: 19 
+    . Estou cursando ciências da computação
+    . quero  me Tornar um Desenvolvedor FullStack   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Desenvolvedor em Início de Jornada:
+     Sou um entusiasta da programação, começando minha carreira na área de tecnologia. Estou atualmente aprendendo e explorando linguagens como python e desenvolvendo projetos para aprimorar minhas habilidades.
+
+### 🎯 Objetivos: 
+    Me tornar um desenvolvedor FullStack habilidoso e contribuir para projetos que façam a diferença.
+
+### 💻 Soft Skil's:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Raimundo Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=rneto8513&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rneto8513&hide_progress=true)
