@@ -3,14 +3,14 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-neto-211b992a3/)
 
 ### 👨‍💻 informações Sobre mim:  
-    . idade: 19 
+    . Idade: 19 
     . Estou cursando ciências da computação
-    . quero  me Tornar um Desenvolvedor FullStack   
+    . Quero  me Tornar um Desenvolvedor FullStack   
 
 
 ### 🚀 Desenvolvedor em Início de Jornada:
      Sou um entusiasta da programação, começando minha carreira na área de tecnologia. Estou atualmente 
-     aprendendo e explorando linguagens como python e desenvolvendo projetos para aprimorar minhas habilidades.
+     Aprendendo e explorando linguagens como python e desenvolvendo projetos para aprimorar minhas habilidades.
 
 ### 🎯 Objetivos: 
     Me tornar um desenvolvedor FullStack habilidoso e contribuir para projetos que façam a diferença.
