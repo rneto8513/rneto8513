@@ -5,15 +5,15 @@
 ### 👨‍💻 informações Sobre mim:  
     . Idade: 19 
     . Estou cursando ciências da computação
-    . Quero  me Tornar um Desenvolvedor FullStack   
+    . Quero  me Tornar um Desenvolvedor    
 
 
 ### 🚀 Desenvolvedor em Início de Jornada:
      Sou um entusiasta da programação, começando minha carreira na área de tecnologia. Estou atualmente 
-     Aprendendo e explorando linguagens como python e desenvolvendo projetos para aprimorar minhas habilidades.
+     Aprendendo e explorando linguagens como python, java e desenvolvendo projetos para aprimorar minhas habilidades.
 
 ### 🎯 Objetivos: 
-    Me tornar um desenvolvedor FullStack habilidoso e contribuir para projetos que façam a diferença.
+    Me tornar um desenvolvedor  habilidoso e contribuir para projetos que façam a diferença.
 
 ### 💻 Soft Skil's:
 
